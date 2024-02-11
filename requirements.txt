@@ -1,0 +1,6 @@
+dotenv
+os
+requests
+spotipy
+random
+pandas
